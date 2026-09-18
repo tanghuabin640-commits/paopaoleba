@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "跑跑乐吧",
+  "short_name": "跑跑乐吧",
+  "description": "记录每一次出发，和朋友分享跑步。",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f7",
+  "theme_color": "#63b7af",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
